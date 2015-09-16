@@ -1,3 +1,3 @@
 # MIS407
 
-This is where I will store my MIS 407 projects
+This is where I will store the projects for Assignment 1
