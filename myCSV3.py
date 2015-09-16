@@ -25,4 +25,5 @@ with open('myData.csv') as csvfile:
     print('The date of',whatColor,'is:',theDate)
     
 #   print the price of the Yellow shirt    
+#   this line of code will print whatever color the user decides on in the list    
     print('The price of the',whatColor,'shirt is:',thePrice)
